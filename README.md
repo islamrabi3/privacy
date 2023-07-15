@@ -1,60 +1,95 @@
+
 Privacy Policy
-Islam Salem built the azkroh app as a Free app. This SERVICE is provided by Islam Salem at no cost and is intended for use as is.
+Azkroh app takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at azkroh unless otherwise defined in this Privacy Policy.
-
-Information Collection and Use
-
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Quraan, Azkar, Muslim . The information that I request will be retained on your device and is not collected by me in any way.
-
-The app does use third-party services that may collect information used to identify you.
-
-Link to the privacy policy of third-party service providers used by the app
-
-Google Play Services
-AdMob
-Log Data
-
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Collection of Routine Information
+This app track basic information about our users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify userto this app The information is tracked for routine administration and maintenance purposes.
 
 Cookies
+Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the app and/or present the user with customized content.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Advertisement and Other Third Parties
+Advertising partners and other third parties may use cookies, scripts and/or web beacons to user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to opt out of Google’s cookie usage.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
-Service Providers
-
-I may employ third-party companies and individuals due to the following reasons:
-
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Links to Third Party Websites
+we have included  for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
 
 Security
+The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Changes To This Privacy Policy
+This Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-Links to Other Sites
+[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] [["website" or "app"]].
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Contact Information
+For any questions or concerns regarding the privacy policy, please send us an email to 
+islamsalemdev@gmail.com
+.
 
-Children’s Privacy
+Change every to user not vistor and make good policy for azakr app for muslim 
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+ChatGPT
+Privacy Policy
+
+Azakr App takes your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining how your personal information is collected and used.
+
+Collection of User Information
+This app tracks basic information about our users. This information includes, but is not limited to, IP addresses, app details, timestamps, and referring pages. None of this information can personally identify the user of this app. The information is tracked for routine administration and maintenance purposes.
+
+Cookies
+Where necessary, this app uses cookies to store information about a user's preferences and history in order to enhance the app's functionality and provide customized content.
+
+Advertisement and Other Third Parties
+Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts, and/or web beacons that may be used by third parties. Please refer to the respective third parties' privacy policies to understand how they handle your information.
+
+Links to Third-Party Websites
+We have included links to third-party websites for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+
+Security
+The security of your personal information is important to us, but please remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 Changes to This Privacy Policy
+This Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+We reserve the right to update or change our Privacy Policy at any time, and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website or within the Azakr App.
 
-This policy is effective as of 2022-11-18
+Contact Information
+For any questions or concerns regarding the privacy policy, please send us an email to islamsalemdev@gmail.com.
 
-Contact Us
+Please note that as an AI language model, I am not the developer or owner of Azakr App. I have made the changes you requested based on your instructions, but it is important to review and tailor the privacy policy to comply with legal requirements and best practices for your specific app. It is recommended to consult with a legal professional to ensure your privacy policy accurately reflects your app's data collection and usage practices.
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at islamsalemdev@gmail.com.
+
+
+
+
+User
+I need to get user location to know prayer time provide the policy with that 
+
+ChatGPT
+Privacy Policy
+
+Azakr App takes your privacy seriously. To better serve you and provide accurate prayer times, we may collect and use your location information. This privacy policy notice explains how your personal information, including your location data, is collected, stored, and used.
+
+Collection of User Information
+In order to provide accurate prayer times, this app may collect your location information. This includes latitude, longitude, and other relevant data necessary to determine your geographical location. This information is used solely for the purpose of calculating and displaying prayer times in your specific location.
+
+Use of Location Information
+The location information collected by the app is used exclusively to provide you with accurate prayer times based on your current location. This information is not shared with any third parties or used for any other purposes unrelated to providing prayer time functionalities.
+
+Data Security
+The security of your personal information, including your location data, is of utmost importance to us. We implement industry-standard security measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no method of data transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
+
+Data Retention
+We retain your location data for as long as it is necessary to provide you with prayer times and related services. If you wish to have your location data removed from our servers, you can contact us using the information provided below.
+
+Third-Party Services
+This app may utilize third-party services, such as map providers, to facilitate the collection and processing of location information. These third-party services may have their own privacy policies governing the use and disclosure of your information. We recommend reviewing the privacy policies of these third-party services for further information.
+
+Changes to This Privacy Policy
+This Privacy Policy is effective as of [[Date]] and will remain in effect, except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time, and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website or within the Azakr App.
+
+Contact Information
+For any questions or concerns regarding the privacy policy or the handling of your location information, please send us an email to islamsalemdev@gmail.com.
